@@ -1,0 +1,10 @@
+[
+  {"model": "list", "pk": 1, "fields": {"name": "favorites", "desc": "All favorites"}},
+  {"model": "list", "pk": 2, "fields": {"name": "blacklist", "desc": "All not like"}},
+  {"model": "filter", "pk": 1, "fields": {"code_filter": "country"}},
+  {"model": "filter", "pk": 2, "fields": {"code_filter": "city"}},
+  {"model": "filter", "pk": 3, "fields": {"code_filter": "sex"}},
+  {"model": "filter", "pk": 4, "fields": {"code_filter": "status"}},
+  {"model": "filter", "pk": 5, "fields": {"code_filter": "age_from"}},
+  {"model": "filter", "pk": 6, "fields": {"code_filter": "age_to"}}
+]
